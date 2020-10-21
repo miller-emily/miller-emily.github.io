@@ -1,11 +1,9 @@
 ---
 layout: category
-title: Edge Case
+title: Interdisciplinary
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+Posts that think about DH with relativity to other fields
 
 ```md
 ---
