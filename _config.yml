@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Emily Miller
 tagline:          'By Emily Miller'
-description:      'An exploration of the Digital Humanities.'
+description:      'Data is kind of sublime.'
 url:              https://miller-emily.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
